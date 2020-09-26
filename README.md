@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![gif](https://user-images.githubusercontent.com/65140439/94348430-de80bb80-0059-11eb-846b-3a4a6ac8490f.gif)
 <!--
 **abhinai96/abhinai96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
