@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Abhinai.Python|| Machine Learning|| Deep Learning || Computer Vision || NLP ||and always willing to learn and work across new technologies and domains.
+
 <!--
 **abhinai96/abhinai96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
