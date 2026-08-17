@@ -58,8 +58,7 @@ Production-ready object detection, tracking, and model optimization solutions.
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/abhinai-goud-37a59a135/)
-mail_to : [abhinai96@gmail.com]
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abhinai-goud-37a59a135/)  
+**Email:** [abhinai96@gmail.com](mailto:abhinai96@gmail.com)
 
 **Let's build practical AI solutions.**
-
